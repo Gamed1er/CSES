@@ -32,3 +32,9 @@ int main(){
     }
     if(L >= R) cout << "IMPOSSIBLE";
 }
+
+// Sort the number, and sum the FIRST number and LAST number (L and R)
+// If the sum is equal to target, print it
+// If the sum is bigger than target, move the R to the previous number
+// Else, move the L to the next number
+// When L face with R, break out and print "IMPOSSIBLE"

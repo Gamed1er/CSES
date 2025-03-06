@@ -1,6 +1,8 @@
 #include <iostream>
 #include <vector>
 #define lli long long int
+#define f first
+#define s second
 using namespace std;
 
 int main(){
@@ -11,3 +13,4 @@ int main(){
 
 
 // The Prefab I use for all of the code
+// My VsCode dont allow me use <bits/stdc++.h>, I don't now why :( 

@@ -33,7 +33,7 @@ int main(){
     cout << ans;
 }
 
-// The Maxmimum of Customers must in the time that someone get in to the restaurant.
+// The Maximum of Customers must in the time that someone get in to the restaurant.
 // Run of each Customers Arrival Time, add it in to <set>
 // In the same time, remove all of the Customers who leave the restaurant.
 // Then count how many customers in restaurant, compare with Answer.
